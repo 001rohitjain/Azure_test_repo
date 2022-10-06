@@ -19,3 +19,4 @@ stages:
     - script: |
         mkdir mybuild
         echo rohit > mybuild/hello.txt
+        echo "jain"
