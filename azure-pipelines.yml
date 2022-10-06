@@ -17,5 +17,5 @@ steps:
     apt-get install python3
     #echo Add other tasks to build, test, and deploy your project.
     #echo See https://aka.ms/yaml
-    date
+    #date
   displayName: 'Run a multi-line script'
